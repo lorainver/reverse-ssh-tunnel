@@ -1,0 +1,3 @@
+ssh-ed25519 AAAAEXAMPLEKEYREPLACEWITHREALONE user@example.com
+# 每行一个公钥。真实文件不要提交到仓库。
+# 生成方式：把允许登录的所有公钥逐行写入 song_authorized_keys

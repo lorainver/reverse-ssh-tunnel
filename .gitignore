@@ -1,0 +1,8 @@
+# 真实密钥材料不进仓库
+ssh-pinned/sshd_host_keys/
+ssh-pinned/*_authorized_keys
+!ssh-pinned/*.example
+ssh-pinned/*_known_hosts
+!ssh-pinned/*.example
+.debs/
+*.deb

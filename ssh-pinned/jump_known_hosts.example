@@ -1,0 +1,6 @@
+# 跳板机 host key 模板
+# 获取方式：ssh-keyscan <跳板机IP> > ssh-pinned/jump_known_hosts
+# IP 会变但 key 不变，pin 住后脚本自动种回 /root/.ssh/known_hosts
+
+# 示例（替换为真实值）：
+# <跳板机IP> ssh-ed25519 AAAAEXAMPLEHOSTKEYREPLACEWITHREALONE
