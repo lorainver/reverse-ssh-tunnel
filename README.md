@@ -1,1 +1,176 @@
-IyDwn5qHIOWPjeWQkSBTU0gg6Zqn6YGTIFJldmVyc2UgU1NIIFR1bm5lbAoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGI+6K6p6Lez5p2/5py66ZqP5pe26L+e5ZueIuS4juS4lumalOe7nSLnmoTkupEgVk3vvIE8L2I+PGJyLz4KICA8aT5MZXQgeW91ciBqdW1wIGhvc3QgcmVhY2ggYmFjayBpbnRvIGFuICJ1bnJlYWNoYWJsZSIgY2xvdWQgVk0hPC9pPgo8L3A+CgotLS0KCiMjIPCfpJQg6L+Z5piv5ZWl77yfIFdoYXQgSXMgVGhpcz8KCuaDs+ixoeS4gOS4i++8muS9oOeahOS6kSBWTSDkvY/lnKjkuIDkuKoi5Y+q6K645Ye644CB5LiN6K646L+bIueahOWwj+WMuumHjCDwn4+Y77iPCkltYWdpbmUgeW91ciBjbG91ZCBWTSBsaXZlcyBpbiBhIGdhdGVkIGNvbW11bml0eTogKipleGl0IG9ubHksIG5vIHZpc2l0b3JzKiog8J+PmO+4jwoK5bmz5Y+w5oqK5omA5pyJ5YWl56uZIFNTSCDlhajmi6bkuobvvIzkvaDmg7Pov57ov5vljrvvvJ/msqHpl6jvvIEKVGhlIHBsYXRmb3JtIGJsb2NrcyBhbGwgaW5ib3VuZCBTU0guIFdhbnQgdG8gY29ubmVjdCBpbj8gTm9wZSEKCuWIq+aFjO+8jOaIkeS7rOiuqSBWTSAqKuS4u+WKqOaJk+eUteivneWbnuWutioqIPCfk54g4oCU4oCUCk5vIHBhbmljISBXZSBtYWtlIHRoZSBWTSAqKnBob25lIGhvbWUqKiDwn5OeIOKAlOKAlAoK5a6D5ZCR5LiA5Y+w5pyJ5YWs572RIElQIOeahOi3s+adv+acuuW7uuS4gOadoSoq5Y+N5ZCR6Zqn6YGTKirvvIzot7Pmnb/mnLrlnKjmnKzlnLDlvIDkuKrnq6/lj6PvvIzmtYHph4/lsLHkuZbkuZbmtYHlm54gVk0g5ZWm44CCCkl0IG9wZW5zIGEgKipyZXZlcnNlIHR1bm5lbCoqIHRvIGEganVtcCBob3N0IHdpdGggYSBwdWJsaWMgSVAuIFRoZSBqdW1wIGhvc3QgbGlzdGVucyBvbiBhIGxvY2FsIHBvcnQsIGFuZCB0cmFmZmljIGZsb3dzIHJpZ2h0IGJhY2sgdG8gdGhlIFZNLgoKLS0tCgojIyDwn5e677iPIOWFqOaZr+WbviBBcmNoaXRlY3R1cmUKCmBgYG1lcm1haWQKZmxvd2NoYXJ0IExSCiAgICBzdWJncmFwaCBWTVsi4piB77iPIOS6kSBWTSAvIENsb3VkIFZNIl0KICAgICAgICBTU0RbIvCflJIgc3NoZDxici8+MTI3LjAuMC4xOjIyMjI8YnIvPuWPquWQrOacrOWcsCAvIGxvb3BiYWNrIG9ubHkiXQogICAgZW5kCiAgICBzdWJncmFwaCBKSFsi8J+Wpe+4jyDot7Pmnb/mnLogLyBKdW1wIEhvc3QiXQogICAgICAgIExQWyLwn5OhIDEyNy4wLjAuMToyMjAyMjxici8+55uR5ZCs5LitIC8gbGlzdGVuaW5nIl0KICAgIGVuZAogICAgVk0gLS0gInNzaCAtUjxici8+5Li75Yqo5Ye65Ye7IC8gZGlhbHMgb3V0IiAtLT4gSkgKICAgIFlPVVsi8J+nkeKAjfCfkrsg5L2gIC8gWW91Il0gLS0gInNzaCAtcCAyMjAyMiBzb25nQDEyNy4wLjAuMSIgLS0+IExQCiAgICBMUCAtLiAi5oKE5oKE6L2s5Y+RIC8gZm9yd2FyZHMiIC4tPiBTU0QKYGBgCgrnmbvlvZXlp7/lir/lj6rmnInkuIDnp43vvIzlj4jnn63lj4jnlJzvvJoKT25lLWxpbmVyIHRvIGdldCBpbiwgc2hvcnQgYW5kIHN3ZWV0OgoKYGBgYmFzaAojIOWcqOi3s+adv+acuuS4iuaJp+ihjCAvIHJ1biB0aGlzIG9uIHRoZSBqdW1wIGhvc3QKc3NoIC1wIDIyMDIyIHNvbmdAMTI3LjAuMC4xCmBgYAoKLS0tCgojIyDwn5ixIOS4uuWVpeaQnui/meS5iOWkjeadgu+8nyBXaHkgU28gRmFuY3k/Cgrlm6DkuLrkupEgVk0g5pyJ5LiqIumHkemxvOiusOW/hiIg8J+QoO+8mgpCZWNhdXNlIGNsb3VkIFZNcyBoYXZlIHRoZSBtZW1vcnkgb2YgYSBnb2xkZmlzaCDwn5CgOgoKKirph43lkK8gLyDooqvlubPlj7Dmm7/mjaLlkI7vvIxgL3Jvb3Rg44CBYC9ldGNg44CBc3NoZOOAgeeUqOaIt+i0puWPt+KAlOKAlOWFqOayoeS6hu+8gSoqCioqQWZ0ZXIgYSByZWJvb3Qgb3IgcmVwbGFjZW1lbnQsIGAvcm9vdGAsIGAvZXRjYCwgc3NoZCwgdXNlciBhY2NvdW50cyDigJQgYWxsIGdvbmUhKioKCuWPquacieaMgeS5heebruW9lei/mOa0u+edgOOAggpPbmx5IHRoZSBwZXJzaXN0ZW50IGRpcmVjdG9yeSBzdXJ2aXZlcy4KCuaJgOS7peaIkeS7rOeahOetlueVpeaYr++8mioq5oqK5oGi5aSN5p2Q5paZ6ZKJ5q275Zyo5oyB5LmF55uu5b2VICsg5LiA5Liq5bmC562J55qE5oGi5aSN6ISa5pysKirvvIzlpKnloYzkuobkuZ/og73oh6rlt7HniKzotbfmnaUg8J+SqgpTbyB0aGUgc3RyYXRlZ3k6ICoqcGluIHJlY292ZXJ5IG1hdGVyaWFscyBpbiB0aGUgcGVyc2lzdGVudCBkaXIgKyBvbmUgaWRlbXBvdGVudCByZXN0b3JlIHNjcmlwdCoqLiBFdmVuIGFmdGVyIGRvb21zZGF5LCBpdCBwaWNrcyBpdHNlbGYgYmFjayB1cCDwn5KqCgpgYGBtZXJtYWlkCmZsb3djaGFydCBURAogICAgQVsi4o+wIOeci+mXqOeLlyBXYXRjaGRvZzxici8+5q+PIDE1IOWIhumSnyAvIGV2ZXJ5IDE1IG1pbiJdIC0tPiBCWyLwn5OcIHJlc3RvcmUtYWZ0ZXItcmVib290LnNoIl0KICAgIEIgLS0+IEN7InNzaGQg6L+Y5rS7552A5ZCXPzxici8+c3NoZCBhbGl2ZT8ifQogICAgQyAtLT588J+SgCDmsqHkuoYgZ29uZXwgRFsi8J+TpiDku44gLmRlYiDph43oo4U8YnIvPnJlaW5zdGFsbCBmcm9tIC5kZWIiXQogICAgQyAtLT588J+YiiDlnKggZmluZXwgRXsic29uZyDnlKjmiLflkaI/PGJyLz51c2VyIGFsaXZlPyJ9CiAgICBEIC0tPiBFCiAgICBFIC0tPnzwn5KAIOayoeS6hiBnb25lfCBGWyLwn5GkIOmHjeW7uueUqOaItyArIOWFrOmSpTxici8+cmVjcmVhdGUgdXNlciArIGtleXMiXQogICAgRSAtLT588J+YiiDlnKggZmluZXwgR3si6Zqn6YGT5ZGiPzxici8+dHVubmVsIGFsaXZlPyJ9CiAgICBGIC0tPiBHCiAgICBHIC0tPnzwn5KAIOaWreS6hiBkb3dufCBIWyLwn5qHIOmHjeW7uuWPjeWQkemap+mBkzxici8+cmVidWlsZCB0dW5uZWwiXQogICAgRyAtLT588J+YiiDlnKggZmluZXwgSVsi4piVIOWWneadr+iMtu+8jOWVpeS5n+S4jeW5sjxici8+YWxsIGdvb2QsIGNoaWxsIl0KICAgIEggLS0+IEkKYGBgCgotLS0KCiMjIPCfmoAg5LiJ5q2l5LiK6L2mIFF1aWNrIFN0YXJ0CgojIyMgMe+4j+KDoyDlh4blpIci5oCl5pWR5YyFIiBQcmVwYXJlIHRoZSBGaXJzdC1BaWQgS2l0CgpgYGBiYXNoCiMg55m75b2V5YWs6ZKl77yM5q+P6KGM5LiA5LiqIC8gb25lIHB1YmtleSBwZXIgbGluZQpjYXQgPiB+L3dvcmtzcGFjZS8uc3NoLXBpbm5lZC9zb25nX2F1dGhvcml6ZWRfa2V5cyA8PCdFT0YnCnNzaC1lZDI1NTE5IEFBQUEuLi4geW91QGV4YW1wbGUuY29tCkVPRgoKIyDot7Pmnb/mnLogaG9zdCBrZXnvvIhJUCDkvJrlj5jvvIxrZXkg5LiN5Y+Y77yM6ZKJ5L2P5a6D77yB77yJCiMganVtcCBob3N0IGtleSAoSVAgY2hhbmdlcywga2V5IGRvZXNuJ3Qg4oCUIHBpbiBpdCEpCnNzaC1rZXlzY2FuIDzot7Pmnb/mnLpJUD4gPiB+L3dvcmtzcGFjZS8uc3NoLXBpbm5lZC9qdW1wX2tub3duX2hvc3RzCmBgYAoKIyMjIDLvuI/ig6Mg5pS56YWN572uIFR3ZWFrIHRoZSBDb25maWcKCuaJk+W8gCBgcmVzdG9yZS1hZnRlci1yZWJvb3Quc2hgIOmhtumDqOeahCoq6YWN572u5Yy6KirvvIzlsLEgNSDooYzvvJoKT3BlbiB0aGUgKipjb25maWcgYmxvY2sqKiBhdCB0aGUgdG9wIG9mIGByZXN0b3JlLWFmdGVyLXJlYm9vdC5zaGAg4oCUIGp1c3QgNSBsaW5lczoKCnwg5Y+Y6YePIFZhcmlhYmxlIHwg5aGr5ZWlIFZhbHVlIHwg5L6L5a2QIEV4YW1wbGUgfAp8LS0tfC0tLXwtLS18CnwgYEpVTVBfSE9TVGAgfCDot7Pmnb/mnLogYOeUqOaIt0DlnLDlnYBgIC8ganVtcCBob3N0IGB1c2VyQGhvc3RgIHwgYHJvb3RAOC4xMzcuMTE3LjEzNGAgfAp8IGBUVU5ORUxfUE9SVGAgfCDot7Pmnb/mnLrnm5HlkKznq6/lj6MgLyBsaXN0ZW4gcG9ydCB8IGAyMjAyMmAgfAp8IGBMT0dJTl9VU0VSYCB8IFZNIOeZu+W9leeUqOaIt+WQjSAvIGxvZ2luIHVzZXIgfCBgc29uZ2AgfAp8IGBTU0hEX1BPUlRgIHwgVk0g55qEIHNzaGQg56uv5Y+jIC8gc3NoZCBwb3J0IHwgYDIyMjJgIHwKfCBgU1NIX0tFWWAgfCBWTSDnmoTnp4HpkqXot6/lvoQgLyBwcml2YXRlIGtleSBwYXRoIHwgYH4vLnNzaC9pZF9lZDI1NTE5YCB8CgojIyMgM++4j+KDoyDngrnngasgSWduaXRlIPCflKUKCmBgYGJhc2gKLi9yZXN0b3JlLWFmdGVyLXJlYm9vdC5zaApgYGAKCuesrOS4gOasoei3keS8muiHquWKqOaKiiBzc2hkIOS4u+acuuWvhumSpSLpkoki5LiL5p2l77yM5Lul5ZCO6YeN5ZCvIGhvc3Qga2V5IOS4jeWPmO+8jOi3s+adv+acuuS4jeeUqOmHjeaWsOehruiupOOAggpGaXJzdCBydW4gcGlucyB0aGUgc3NoZCBob3N0IGtleXMg4oCUIHRoZXkgd29uJ3QgY2hhbmdlIGFmdGVyIHJlYm9vdHMsIG5vIHJlLWNvbmZpcm1pbmcgb24gdGhlIGp1bXAgaG9zdC4KCuWOu+i3s+adv+acuumqjOivgeS4gOS4i++8mgpWZXJpZnkgb24gdGhlIGp1bXAgaG9zdDoKCmBgYGJhc2gKc3MgLXRsbiB8IGdyZXAgMjIwMjIgICAgICAgICMg55yL5YiwIDEyNy4wLjAuMToyMjAyMiDlsLHotaLkuoYg8J+OiSAvIHlvdSB3aW4hCnNzaCAtcCAyMjAyMiBzb25nQDEyNy4wLjAuMSAjIOi/m+WOu+mAm+mAm+WQpyAvIGhvcCBpbiEKYGBgCgotLS0KCiMjIPCfk4Eg5paH5Lu25YWo5a6256aPIE1lZXQgdGhlIEZhbWlseQoKfCDmlofku7YgRmlsZSB8IOS6uuiuviBSb2xlIHwKfC0tLXwtLS18CnwgYHJlc3RvcmUtYWZ0ZXItcmVib290LnNoYCB8IPCfprgg5Li76KeS77yB5bmC562J5oGi5aSN6ISa5pys77yM5aSp5aGM5LqG5a6D5YWI5LiKIC8gdGhlIGhlcm8gfAp8IGB3YXRjaGRvZy5tZGAgfCDwn5C2IOeci+mXqOeLl+WAvOePreihqO+8muavjyAxNSDliIbpkp/lt6HpgLvkuIDmrKEgLyBwYXRyb2wgcm9zdGVyIHwKfCBgZG9jcy9zZXR1cC5tZGAgfCDwn5OWIOaWsOS6uuWFpeiBjOaJi+WGjO+8muS7jumbtuaQreW7uuWFqOa1geeoiyAvIG9uYm9hcmRpbmcgZ3VpZGUgfAp8IGBzc2gtcGlubmVkLyouZXhhbXBsZWAgfCDwn5OdIOaooeadv++8mueFp+edgOWhq+S9oOeahOecn+WunuWvhumSpe+8iOecn+WunuaWh+S7tuS4jei/m+S7k+W6k++8ge+8iS8gdGVtcGxhdGVzIChyZWFsIGtleXMgbmV2ZXIgZW50ZXIgdGhlIHJlcG8hKSB8CnwgYC5naXRpZ25vcmVgIHwg8J+boe+4jyDkv53plZbvvJrlr4bpkqXmlofku7bkvJHmg7Pmt7fov5sgZ2l0IC8gYm91bmNlciB8CgotLS0KCiMjIPCflJIg5a6J5YWo5bCP5oqEIFNlY3VyaXR5IE5vdGVzCgotIPCfmYggKirku5PlupPph4zmsqHmnInku7vkvZXnnJ/lrp7lr4bpkqUqKiDigJTigJQg5Y+q5pyJIGAuZXhhbXBsZWAg5qih5p2/77yMYC5naXRpZ25vcmVgIOWuiOmXqAogICoqTm8gcmVhbCBzZWNyZXRzIGluIHRoaXMgcmVwbyoqIOKAlCBvbmx5IGAuZXhhbXBsZWAgdGVtcGxhdGVzLCBndWFyZGVkIGJ5IGAuZ2l0aWdub3JlYAotIPCfj6Ag6Zqn6YGT5Lik56uv6YO95pivIGAxMjcuMC4wLjFgIOebkeWQrO+8jOWFrOe9keaJq+aPj+WZqOeci+mDveeci+S4jeingQogIEJvdGggdHVubmVsIGVuZHMgbGlzdGVuIG9uIGAxMjcuMC4wLjFgIOKAlCBpbnZpc2libGUgdG8gcG9ydCBzY2FubmVycwotIPCfmqsgc3NoZCDnpoHlr4bnoIHjgIHnpoEgcm9vdO+8jOWPquiupOWFrOmSpQogIHNzaGQ6IG5vIHBhc3N3b3Jkcywgbm8gcm9vdCwgcHVia2V5IG9ubHkKLSDwn5SRIOmAgOWHuueggSBgMmAgPSDpmqfpgZPph43lu7rlpLHotKXvvIjlpJrljYrmmK/lubPlj7DopoHkvaDlrqHmibnmlrDnmoTlh7rnq5kgU1NI77yJ77yM5Yir6YeN6K+V77yM5om+5Li75Lq65Y6777yBCiAgRXhpdCBjb2RlIGAyYCA9IHR1bm5lbCByZWJ1aWxkIGZhaWxlZCAodXN1YWxseSBuZWVkcyB5b3VyIGFwcHJvdmFsIGZvciBhIG5ldyBvdXRib3VuZCBTU0gpIOKAlCBkb24ndCByZXRyeSwgZ28gZmluZCB0aGUgaHVtYW4hCgotLS0KCiMjIPCfhpgg5pWR5ZG9IEZBUQoKKipROiDpmqfpgZPov57kuIrkuobkvYYgc3NoIOi/m+S4jeWOu++8ny8gVHVubmVsIGlzIHVwIGJ1dCBJIGNhbid0IHNzaCBpbj8qKgoKQTog5YWI55yL6Lez5p2/5py6IGBzcyAtdGxuIHwgZ3JlcCAyMjAyMmAg5pyJ5rKh5pyJ55uR5ZCs77yb5YaN55yLIGBzb25nYCDnlKjmiLfnmoQgYH4vLnNzaC9hdXRob3JpemVkX2tleXNgIOadg+mZkOaYr+S4jeaYryA2MDDjgIIKQ2hlY2sgYHNzIC10bG4gfCBncmVwIDIyMDIyYCBvbiB0aGUganVtcCBob3N0IGZpcnN0OyB0aGVuIG1ha2Ugc3VyZSBgfi8uc3NoL2F1dGhvcml6ZWRfa2V5c2AgaXMgbW9kZSA2MDAuCgoqKlE6IFZNIOiiq+W5s+WPsOabv+aNouS6huaAjuS5iOWKnu+8ny8gV2hhdCBpZiB0aGUgVk0gZ2V0cyByZXBsYWNlZD8qKgoKQTog5Zad5p2v6Iy2IOKYleOAgueci+mXqOeLlyAxNSDliIbpkp/lhoXoh6rliqjph43lu7rkuIDliIfjgILnrYnkuI3lj4rvvJ/miYvliqjot5HkuIDpgY0gYHJlc3RvcmUtYWZ0ZXItcmVib290LnNoYOOAggpHcmFiIGEgdGVhIOKYlS4gVGhlIHdhdGNoZG9nIHJlYnVpbGRzIGV2ZXJ5dGhpbmcgd2l0aGluIDE1IG1pbnV0ZXMuIEltcGF0aWVudD8gUnVuIGByZXN0b3JlLWFmdGVyLXJlYm9vdC5zaGAgbWFudWFsbHkuCgoqKlE6IOiDveeUqOWcqOWIq+eahOS6keW5s+WPsOWQl++8ny8gV29ya3Mgb24gb3RoZXIgY2xvdWQgcGxhdGZvcm1zPyoqCgpBOiDog73vvIHlj6ropoHmu6HotrPkuKTngrnvvJpWTSDog73lh7rnq5kgU1NI44CB5pyJ5Y+w6IO95YWl56uZIFNTSCDnmoTot7Pmnb/mnLrjgILmlLkgNSDooYzphY3nva7lsLHooYzjgIIKU3VyZSEgVHdvIHJlcXVpcmVtZW50czogdGhlIFZNIGNhbiBTU0ggb3V0LCBhbmQgeW91IGhhdmUgYSBqdW1wIGhvc3QgeW91IGNhbiBTU0ggaW50by4gSnVzdCB0d2VhayB0aGUgNSBjb25maWcgbGluZXMuCgotLS0KCjxwIGFsaWduPSJjZW50ZXIiPgogIOeUqCDinaTvuI8g5ZKM5LiA54K554K55YGP5omn5YGa5oiQPGJyLz4KICBNYWRlIHdpdGgg4p2k77iPIGFuZCBhIGhlYWx0aHkgZG9zZSBvZiBwYXJhbm9pYQo8L3A+Cg==
+# 🚇 反向 SSH 隧道 Reverse SSH Tunnel
+
+<p align="center">
+  <b>让跳板机随时连回"与世隔绝"的云 VM！</b><br/>
+  <i>Let your jump host reach back into an "unreachable" cloud VM!</i>
+</p>
+
+---
+
+## 🤔 这是啥？ What Is This?
+
+想象一下：你的云 VM 住在一个"只许出、不许进"的小区里 🏘️
+Imagine your cloud VM lives in a gated community: **exit only, no visitors** 🏘️
+
+平台把所有入站 SSH 全拦了，你想连进去？没门！
+The platform blocks all inbound SSH. Want to connect in? Nope!
+
+别慌，我们让 VM **主动打电话回家** 📞 ——
+No panic! We make the VM **phone home** 📞 ——
+
+它向一台有公网 IP 的跳板机建一条**反向隧道**，跳板机在本地开个端口，流量就乖乖流回 VM 啦。
+It opens a **reverse tunnel** to a jump host with a public IP. The jump host listens on a local port, and traffic flows right back to the VM.
+
+---
+
+## 🗺️ 全景图 Architecture
+
+```mermaid
+flowchart LR
+    subgraph VM["☁️ 云 VM / Cloud VM"]
+        SSD["🔒 sshd<br/>127.0.0.1:2222<br/>只听本地 / loopback only"]
+    end
+    subgraph JH["🖥️ 跳板机 / Jump Host"]
+        LP["📡 127.0.0.1:22022<br/>监听中 / listening"]
+    end
+    VM -- "ssh -R<br/>主动出击 / dials out" --> JH
+    YOU["🧑‍💻 你 / You"] -- "ssh -p 22022 song@127.0.0.1" --> LP
+    LP -. "悄悄转发 / forwards" .-> SSD
+```
+
+登录姿势只有一种，又短又甜：
+One-liner to get in, short and sweet:
+
+```bash
+# 在跳板机上执行 / run this on the jump host
+ssh -p 22022 song@127.0.0.1
+```
+
+---
+
+## 😱 为啥搞这么复杂？ Why So Fancy?
+
+因为云 VM 有个"金鱼记忆" 🐠：
+Because cloud VMs have the memory of a goldfish 🐠:
+
+**重启 / 被平台替换后，`/root`、`/etc`、sshd、用户账号——全没了！**
+**After a reboot or replacement, `/root`, `/etc`, sshd, user accounts — all gone!**
+
+只有持久目录还活着。
+Only the persistent directory survives.
+
+所以我们的策略是：**把恢复材料钉死在持久目录 + 一个幂等的恢复脚本**，天塌了也能自己爬起来 💪
+So the strategy: **pin recovery materials in the persistent dir + one idempotent restore script**. Even after doomsday, it picks itself back up 💪
+
+```mermaid
+flowchart TD
+    A["⏰ 看门狗 Watchdog<br/>每 15 分钟 / every 15 min"] --> B["📜 restore-after-reboot.sh"]
+    B --> C{"sshd 还活着吗?<br/>sshd alive?"}
+    C -->|💀 没了 gone| D["📦 从 .deb 重装<br/>reinstall from .deb"]
+    C -->|😊 在 fine| E{"song 用户呢?<br/>user alive?"}
+    D --> E
+    E -->|💀 没了 gone| F["👤 重建用户 + 公钥<br/>recreate user + keys"]
+    E -->|😊 在 fine| G{"隧道呢?<br/>tunnel alive?"}
+    F --> G
+    G -->|💀 断了 down| H["🚇 重建反向隧道<br/>rebuild tunnel"]
+    G -->|😊 在 fine| I["☕ 喝杯茶，啥也不干<br/>all good, chill"]
+    H --> I
+```
+
+---
+
+## 🚀 三步上车 Quick Start
+
+### 1️⃣ 准备"急救包" Prepare the First-Aid Kit
+
+```bash
+# 登录公钥，每行一个 / one pubkey per line
+cat > ~/workspace/.ssh-pinned/song_authorized_keys <<'EOF'
+ssh-ed25519 AAAA... you@example.com
+EOF
+
+# 跳板机 host key（IP 会变，key 不变，钉住它！）
+# jump host key (IP changes, key doesn't — pin it!)
+ssh-keyscan <跳板机IP> > ~/workspace/.ssh-pinned/jump_known_hosts
+```
+
+### 2️⃣ 改配置 Tweak the Config
+
+打开 `restore-after-reboot.sh` 顶部的**配置区**，就 5 行：
+Open the **config block** at the top of `restore-after-reboot.sh` — just 5 lines:
+
+| 变量 Variable | 填啥 Value | 例子 Example |
+|---|---|---|
+| `JUMP_HOST` | 跳板机 `用户@地址` / jump host `user@host` | `root@8.137.117.134` |
+| `TUNNEL_PORT` | 跳板机监听端口 / listen port | `22022` |
+| `LOGIN_USER` | VM 登录用户名 / login user | `song` |
+| `SSHD_PORT` | VM 的 sshd 端口 / sshd port | `2222` |
+| `SSH_KEY` | VM 的私钥路径 / private key path | `~/.ssh/id_ed25519` |
+
+### 3️⃣ 点火 Ignite 🔥
+
+```bash
+./restore-after-reboot.sh
+```
+
+第一次跑会自动把 sshd 主机密钥"钉"下来，以后重启 host key 不变，跳板机不用重新确认。
+First run pins the sshd host keys — they won't change after reboots, no re-confirming on the jump host.
+
+去跳板机验证一下：
+Verify on the jump host:
+
+```bash
+ss -tln | grep 22022        # 看到 127.0.0.1:22022 就赢了 🎉 / you win!
+ssh -p 22022 song@127.0.0.1 # 进去逛逛吧 / hop in!
+```
+
+---
+
+## 📁 文件全家福 Meet the Family
+
+| 文件 File | 人设 Role |
+|---|---|
+| `restore-after-reboot.sh` | 🦸 主角！幂等恢复脚本，天塌了它先上 / the hero |
+| `watchdog.md` | 🐶 看门狗值班表：每 15 分钟巡逻一次 / patrol roster |
+| `docs/setup.md` | 📖 新人入职手册：从零搭建全流程 / onboarding guide |
+| `ssh-pinned/*.example` | 📝 模板：照着填你的真实密钥（真实文件不进仓库！）/ templates (real keys never enter the repo!) |
+| `.gitignore` | 🛡️ 保镖：密钥文件休想混进 git / bouncer |
+
+---
+
+## 🔒 安全小抄 Security Notes
+
+- 🙈 **仓库里没有任何真实密钥** —— 只有 `.example` 模板，`.gitignore` 守门
+  **No real secrets in this repo** — only `.example` templates, guarded by `.gitignore`
+- 🏠 隧道两端都是 `127.0.0.1` 监听，公网扫描器看都看不见
+  Both tunnel ends listen on `127.0.0.1` — invisible to port scanners
+- 🚫 sshd 禁密码、禁 root，只认公钥
+  sshd: no passwords, no root, pubkey only
+- 🔑 退出码 `2` = 隧道重建失败（多半是平台要你审批新的出站 SSH），别重试，找主人去！
+  Exit code `2` = tunnel rebuild failed (usually needs your approval for a new outbound SSH) — don't retry, go find the human!
+
+---
+
+## 🆘 救命 FAQ
+
+**Q: 隧道连上了但 ssh 进不去？/ Tunnel is up but I can't ssh in?**
+
+A: 先看跳板机 `ss -tln | grep 22022` 有没有监听；再看 `song` 用户的 `~/.ssh/authorized_keys` 权限是不是 600。
+Check `ss -tln | grep 22022` on the jump host first; then make sure `~/.ssh/authorized_keys` is mode 600.
+
+**Q: VM 被平台替换了怎么办？/ What if the VM gets replaced?**
+
+A: 喝杯茶 ☕。看门狗 15 分钟内自动重建一切。等不及？手动跑一遍 `restore-after-reboot.sh`。
+Grab a tea ☕. The watchdog rebuilds everything within 15 minutes. Impatient? Run `restore-after-reboot.sh` manually.
+
+**Q: 能用在别的云平台吗？/ Works on other cloud platforms?**
+
+A: 能！只要满足两点：VM 能出站 SSH、有台能入站 SSH 的跳板机。改 5 行配置就行。
+Sure! Two requirements: the VM can SSH out, and you have a jump host you can SSH into. Just tweak the 5 config lines.
+
+---
+
+<p align="center">
+  用 ❤️ 和一点点偏执做成<br/>
+  Made with ❤️ and a healthy dose of paranoia
+</p>
